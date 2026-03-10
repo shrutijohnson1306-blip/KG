@@ -1,0 +1,715 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="width" attr.type="long"/>
+<key id="d1" for="edge" attr.name="title" attr.type="string"/>
+<key id="d0" for="node" attr.name="size" attr.type="long"/>
+<graph edgedefault="directed"><node id="Regulated Entities (REs)">
+  <data key="d0">10</data>
+</node>
+<node id="Lending Service Providers (LSPs)">
+  <data key="d0">10</data>
+</node>
+<node id="Digital Lending Apps (DLAs)">
+  <data key="d0">10</data>
+</node>
+<node id="Borrowers">
+  <data key="d0">10</data>
+</node>
+<node id="LSPs">
+  <data key="d0">10</data>
+</node>
+<node id="DLAs">
+  <data key="d0">10</data>
+</node>
+<node id="Existing customers">
+  <data key="d0">10</data>
+</node>
+<node id="New customers">
+  <data key="d0">10</data>
+</node>
+<node id="Existing digital loans">
+  <data key="d0">10</data>
+</node>
+<node id="Data Privacy Authorities">
+  <data key="d0">10</data>
+</node>
+<node id="REs">
+  <data key="d0">10</data>
+</node>
+<node id="KFS">
+  <data key="d0">10</data>
+</node>
+<node id="Website">
+  <data key="d0">10</data>
+</node>
+<node id="DLAs, LSPs">
+  <data key="d0">10</data>
+</node>
+<node id="DLAs of REs and LSPs">
+  <data key="d0">10</data>
+</node>
+<node id="Nodal grievance redressal officer">
+  <data key="d0">10</data>
+</node>
+<node id="LSPs engaged by REs">
+  <data key="d0">10</data>
+</node>
+<node id="Complaint Management System (CMS) portal">
+  <data key="d0">10</data>
+</node>
+<node id="Regulated Entity (RE)">
+  <data key="d0">10</data>
+</node>
+<node id="Borrower">
+  <data key="d0">10</data>
+</node>
+<node id="Board of RE">
+  <data key="d0">10</data>
+</node>
+<node id="Lending Service Provider (LSP)">
+  <data key="d0">10</data>
+</node>
+<node id="LSP">
+  <data key="d0">10</data>
+</node>
+<node id="Digital Lending App (DLA)">
+  <data key="d0">10</data>
+</node>
+<node id="LSPs/DLAs">
+  <data key="d0">10</data>
+</node>
+<node id="Servers">
+  <data key="d0">10</data>
+</node>
+<node id="public">
+  <data key="d0">10</data>
+</node>
+<node id="Synthetic Securitisation">
+  <data key="d0">10</data>
+</node>
+<node id="Regulated Entity">
+  <data key="d0">10</data>
+</node>
+<node id="APR">
+  <data key="d0">10</data>
+</node>
+<node id="Cost of Funds">
+  <data key="d0">10</data>
+</node>
+<node id="Credit Cost">
+  <data key="d0">10</data>
+</node>
+<node id="Operating Cost">
+  <data key="d0">10</data>
+</node>
+<node id="Processing Fee">
+  <data key="d0">10</data>
+</node>
+<node id="Verification Charges">
+  <data key="d0">10</data>
+</node>
+<node id="Maintenance Charges">
+  <data key="d0">10</data>
+</node>
+<node id="Penal Charges">
+  <data key="d0">10</data>
+</node>
+<node id="Late Payment Charges">
+  <data key="d0">10</data>
+</node>
+<node id="Key Fact Statement (KFS)">
+  <data key="d0">10</data>
+</node>
+<node id="Cooling-off Period">
+  <data key="d0">10</data>
+</node>
+<node id="Contact List">
+  <data key="d0">10</data>
+</node>
+<node id="Media and Files">
+  <data key="d0">10</data>
+</node>
+<node id="Call Logs">
+  <data key="d0">10</data>
+</node>
+<node id="Biometric Data">
+  <data key="d0">10</data>
+</node>
+<node id="One-time Access (Camera/Microphone)">
+  <data key="d0">10</data>
+</node>
+<node id="Borrower Bank Account">
+  <data key="d0">10</data>
+</node>
+<node id="Disbursement Funds">
+  <data key="d0">10</data>
+</node>
+<node id="Tenor 7 days or more">
+  <data key="d0">10</data>
+</node>
+<node id="Tenor less than 7 days">
+  <data key="d0">10</data>
+</node>
+<node id="10-day Loan">
+  <data key="d0">10</data>
+</node>
+<node id="6-day Loan">
+  <data key="d0">10</data>
+</node>
+<node id="Undisclosed Charges">
+  <data key="d0">10</data>
+</node>
+<node id="Missing KFS/APR">
+  <data key="d0">10</data>
+</node>
+<node id="Complaints">
+  <data key="d0">10</data>
+</node>
+<node id="Standardized RBI Format">
+  <data key="d0">10</data>
+</node>
+<node id="All-Inclusive Fees">
+  <data key="d0">10</data>
+</node>
+<node id="Any Fee Not in KFS">
+  <data key="d0">10</data>
+</node>
+<node id="Convenience Fee">
+  <data key="d0">10</data>
+</node>
+<edge source="Regulated Entities (REs)" target="Lending Service Providers (LSPs)" id="0">
+  <data key="d1">Ensure compliance</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Lending Service Providers (LSPs)" id="1">
+  <data key="d1">Comply with guidelines in both letter and spirit</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Lending Service Providers (LSPs)" id="2">
+  <data key="d1">engage</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Lending Service Providers (LSPs)" id="3">
+  <data key="d1">Not allowed to charge fees directly from borrowers</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Digital Lending Apps (DLAs)" id="0">
+  <data key="d1">Ensure compliance</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Digital Lending Apps (DLAs)" id="1">
+  <data key="d1">Comply with guidelines in both letter and spirit</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Digital Lending Apps (DLAs)" id="2">
+  <data key="d1">operate</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Borrowers" id="0">
+  <data key="d1">Comply with guidelines</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Borrowers" id="1">
+  <data key="d1">Conform to extant guidelines on outsourcing</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Borrowers" id="2">
+  <data key="d1">disburse loans to</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Borrowers" id="3">
+  <data key="d1">disclose APR to</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Borrowers" id="4">
+  <data key="d1">provide cooling off/look-up period to</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Borrowers" id="5">
+  <data key="d1">Ensure direct disbursement to borrower's bank account</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Borrowers" id="6">
+  <data key="d1">Disclose annualized penal charges in Key Fact Statement (KFS)</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Borrowers" id="7">
+  <data key="d1">Disclose all-inclusive cost of digital loans in Key Fact Statement (KFS)</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Existing customers" id="0">
+  <data key="d1">Applicable to 'existing customers availing fresh loans'</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="New customers" id="0">
+  <data key="d1">Applicable to 'new customers getting onboarded'</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Regulated Entities (REs)" id="0">
+  <data key="d1">Given time till November 30, 2022</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Existing digital loans" id="0">
+  <data key="d1">Ensure compliance with guidelines</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entities (REs)" target="Data Privacy Authorities" id="0">
+  <data key="d1">comply with data privacy regulations</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Lending Service Providers (LSPs)" target="Digital Lending Apps (DLAs)" id="0">
+  <data key="d1">operate</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Borrowers" target="Regulated Entities (REs)" id="0">
+  <data key="d1">extend loans to</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Borrowers" target="Complaint Management System (CMS) portal" id="0">
+  <data key="d1">can lodge complaint if not resolved within 30 days</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Borrowers" target="DLAs" id="0">
+  <data key="d1">Provide consent for data usage</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Borrowers" target="DLAs" id="1">
+  <data key="d1">Option to deny consent for data usage</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Borrowers" target="DLAs" id="2">
+  <data key="d1">Restrict disclosure to third parties</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Borrowers" target="DLAs" id="3">
+  <data key="d1">Revoke consent for data collection</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Borrowers" target="DLAs" id="4">
+  <data key="d1">Make app delete/forget data</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Borrowers" target="DLAs" id="5">
+  <data key="d1">Disclose consent purpose at each stage of interface</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="LSPs" target="DLAs" id="0">
+  <data key="d1">Comply with guidelines</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="LSPs" target="Borrowers" id="0">
+  <data key="d1">Comply with guidelines</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="DLAs" target="Borrowers" id="0">
+  <data key="d1">Comply with guidelines</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="DLAs" target="public" id="0">
+  <data key="d1">make_privacy_policy_available</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="Borrowers" id="0">
+  <data key="d1">provide KFS</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="Borrowers" id="1">
+  <data key="d1">ensure digitally signed documents flow to borrowers</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="Borrowers" id="2">
+  <data key="d1">communicate details of recovery agent at loan sanctioning and change in recovery responsibilities</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="Borrowers" id="3">
+  <data key="d1">ensure resolution of complaints within 30 days</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="Borrowers" id="4">
+  <data key="d1">capture economic profile of borrowers before extending loans</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="Borrowers" id="5">
+  <data key="d1">assess creditworthiness in an auditable way</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="KFS" id="0">
+  <data key="d1">contain APR, recovery mechanism, grievance redressal officer details, cooling-off period</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="Website" id="0">
+  <data key="d1">publish list of DLAs, LSPs</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="DLAs, LSPs" id="0">
+  <data key="d1">display product features, loan limit and cost</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="DLAs of REs and LSPs" id="0">
+  <data key="d1">ensure links to REs’ website</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="Nodal grievance redressal officer" id="0">
+  <data key="d1">appoint</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="LSPs engaged by REs" id="0">
+  <data key="d1">ensure nodal grievance redressal officer</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="DLAs" id="0">
+  <data key="d1">ensure contact details prominently displayed on websites</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="DLAs" id="1">
+  <data key="d1">ensure facility of lodging complaint available on DLAs and websites</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="DLAs" id="2">
+  <data key="d1">Ensure clear policy guidelines on data storage</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="DLAs" id="3">
+  <data key="d1">Disclose policy guidelines prominently on website and apps</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="DLAs" id="4">
+  <data key="d1">Ensure no storage of biometric data without statutory guidelines</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="DLAs" id="5">
+  <data key="d1">ensure_compliance_with_privacy_policy</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="DLAs" id="6">
+  <data key="d1">report_to_CICs</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="LSPs/DLAs" id="0">
+  <data key="d1">Ensure no storage of personal information</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="Servers" id="0">
+  <data key="d1">Store data only in Indian servers</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="LSPs" id="0">
+  <data key="d1">ensure_compliance_with_privacy_policy</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="LSPs" id="1">
+  <data key="d1">comply_with_technology_standards</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="LSPs" id="2">
+  <data key="d1">report_to_CICs</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="REs" target="LSPs" id="3">
+  <data key="d1">adhere_to_outsourcing_guidelines</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Nodal grievance redressal officer" target="Borrowers" id="0">
+  <data key="d1">deal with complaints</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Borrower" id="0">
+  <data key="d1">Ensure no automatic increase in credit limit without explicit consent</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Borrower" id="1">
+  <data key="d1">Provide cooling off period</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Borrower" id="2">
+  <data key="d1">Allow pre-payment during cooling off period as per extant RBI guidelines</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Borrower" id="3">
+  <data key="d1">Provides Detailed Repayment Schedule</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Borrower" id="4">
+  <data key="d1">Discloses Principal Repayment Amount</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Borrower" id="5">
+  <data key="d1">Discloses Interest Amount</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Borrower" id="6">
+  <data key="d1">Discloses Total Instalment Amount</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Board of RE" id="0">
+  <data key="d1">Determine cooling off period</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Lending Service Provider (LSP)" id="0">
+  <data key="d1">Conduct enhanced due diligence before partnering</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="LSP" id="0">
+  <data key="d1">Consider technical abilities, data privacy policies, storage systems, fairness in conduct, and ability to comply with regulations</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="LSP" id="1">
+  <data key="d1">Carry out periodic review of LSP's conduct</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="LSP" id="2">
+  <data key="d1">Impart necessary guidance to LSPs acting as recovery agents</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="LSP" id="3">
+  <data key="d1">Ensure LSPs comply with extant instructions</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Digital Lending App (DLA)" id="0">
+  <data key="d1">Ensure data collection is need-based and with prior and explicit consent of borrower</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Digital Lending App (DLA)" id="1">
+  <data key="d1">Ensure audit trail for data collection</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Regulated Entity (RE)" id="0">
+  <data key="d1">Adhere to Master Direction - Reserve Bank of India (Securitisation of Standard Assets) Directions, 2021</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Synthetic Securitisation" id="0">
+  <data key="d1">Transfer Credit Risk</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="APR" id="0">
+  <data key="d1">MUST_DISCLOSE_UPFRONT</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Borrower Bank Account" id="0">
+  <data key="d1">MUST_DISBURSE_DIRECTLY_TO</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Missing KFS/APR" id="0">
+  <data key="d1">SUBJECT_TO_PENAL_ACTION_BY_RBI</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Key Fact Statement (KFS)" id="0">
+  <data key="d1">MUST_ENSURE_COMPLETENESS_OF</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity (RE)" target="Key Fact Statement (KFS)" id="1">
+  <data key="d1">MUST_ENSURE_COMPLETENESS_OF</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Borrower" target="Cooling-off Period" id="0">
+  <data key="d1">CAN_EXIT_BY_PAYING_PRINCIPAL_AND_APR</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Lending Service Provider (LSP)" target="Disbursement Funds" id="0">
+  <data key="d1">MUST_NOT_RECEIVE_IN_POOL_ACCOUNT</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Digital Lending App (DLA)" target="Contact List" id="0">
+  <data key="d1">MUST_DESIST_FROM_ACCESSING</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Digital Lending App (DLA)" target="Media and Files" id="0">
+  <data key="d1">MUST_DESIST_FROM_ACCESSING</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Digital Lending App (DLA)" target="Call Logs" id="0">
+  <data key="d1">MUST_DESIST_FROM_ACCESSING</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Digital Lending App (DLA)" target="Biometric Data" id="0">
+  <data key="d1">NO_STORAGE_ALLOWED</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Digital Lending App (DLA)" target="One-time Access (Camera/Microphone)" id="0">
+  <data key="d1">ONLY_FOR_KYC_WITH_CONSENT</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity" target="Borrower" id="0">
+  <data key="d1">Provide Key Fact Statement</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity" target="Borrower" id="1">
+  <data key="d1">Provide Loan Amount</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity" target="Borrower" id="2">
+  <data key="d1">Provide Total Interest Charge</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity" target="Borrower" id="3">
+  <data key="d1">Provide Up-Front Charges</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity" target="Borrower" id="4">
+  <data key="d1">Provide Net Disbursed Amount</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity" target="Borrower" id="5">
+  <data key="d1">Provide Total Amount to be Paid</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity" target="Borrower" id="6">
+  <data key="d1">Provide Annual Percentage Rate</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity" target="Borrower" id="7">
+  <data key="d1">Provide Loan Tenor</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity" target="Borrower" id="8">
+  <data key="d1">Provide Repayment Frequency</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity" target="Borrower" id="9">
+  <data key="d1">Provide Number of Installments</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity" target="Borrower" id="10">
+  <data key="d1">Provide Installment Amount</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity" target="Borrower" id="11">
+  <data key="d1">Disclose Contingent Charges</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity" target="Borrower" id="12">
+  <data key="d1">Disclose Cooling Off Period</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity" target="Borrower" id="13">
+  <data key="d1">Disclose LSP Acting as Recovery Agent</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Regulated Entity" target="Borrower" id="14">
+  <data key="d1">Disclose Nodal Grievance Redressal Officer</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Cost of Funds" id="0">
+  <data key="d1">MUST_INCLUDE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Cost of Funds" id="1">
+  <data key="d1">MUST_INCLUDE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Credit Cost" id="0">
+  <data key="d1">MUST_INCLUDE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Credit Cost" id="1">
+  <data key="d1">MUST_INCLUDE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Operating Cost" id="0">
+  <data key="d1">MUST_INCLUDE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Operating Cost" id="1">
+  <data key="d1">MUST_INCLUDE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Processing Fee" id="0">
+  <data key="d1">MUST_INCLUDE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Processing Fee" id="1">
+  <data key="d1">MUST_INCLUDE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Verification Charges" id="0">
+  <data key="d1">MUST_INCLUDE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Verification Charges" id="1">
+  <data key="d1">MUST_INCLUDE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Maintenance Charges" id="0">
+  <data key="d1">MUST_INCLUDE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Maintenance Charges" id="1">
+  <data key="d1">MUST_INCLUDE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Penal Charges" id="0">
+  <data key="d1">MUST_EXCLUDE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Penal Charges" id="1">
+  <data key="d1">MUST_EXCLUDE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Late Payment Charges" id="0">
+  <data key="d1">MUST_EXCLUDE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Late Payment Charges" id="1">
+  <data key="d1">MUST_EXCLUDE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="APR" target="Borrower" id="0">
+  <data key="d1">EFFECTIVE_ANNUALIZED_RATE_FOR</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Key Fact Statement (KFS)" target="APR" id="0">
+  <data key="d1">MUST_CONTAIN</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Key Fact Statement (KFS)" target="Undisclosed Charges" id="0">
+  <data key="d1">CANNOT_BE_RECOVERED_FROM_BORROWER</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Key Fact Statement (KFS)" target="Standardized RBI Format" id="0">
+  <data key="d1">MUST_ADHERE_TO</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Key Fact Statement (KFS)" target="All-Inclusive Fees" id="0">
+  <data key="d1">MUST_DISCLOSE_EVERY_SINGLE_CHARGE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Key Fact Statement (KFS)" target="All-Inclusive Fees" id="1">
+  <data key="d1">MUST_DISCLOSE_EVERY_SINGLE_CHARGE</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Cooling-off Period" target="Tenor 7 days or more" id="0">
+  <data key="d1">DURATION_MUST_BE_MINIMUM_3_DAYS</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Cooling-off Period" target="Tenor less than 7 days" id="0">
+  <data key="d1">DURATION_MUST_BE_MINIMUM_1_DAY</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="10-day Loan" target="Tenor 7 days or more" id="0">
+  <data key="d1">IS_CATEGORIZED_AS</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="6-day Loan" target="Tenor less than 7 days" id="0">
+  <data key="d1">IS_CATEGORIZED_AS</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Missing KFS/APR" target="Complaints" id="0">
+  <data key="d1">ESCALATED_TO_CMS_PORTAL</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Any Fee Not in KFS" target="Borrower" id="0">
+  <data key="d1">CANNOT_BE_CHARGED_TO</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Any Fee Not in KFS" target="Borrower" id="1">
+  <data key="d1">CANNOT_BE_CHARGED_TO</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Convenience Fee" target="Any Fee Not in KFS" id="0">
+  <data key="d1">IS_A_TYPE_OF</data>
+  <data key="d2">1</data>
+</edge>
+<edge source="Convenience Fee" target="Any Fee Not in KFS" id="1">
+  <data key="d1">IS_A_TYPE_OF</data>
+  <data key="d2">1</data>
+</edge>
+</graph></graphml>

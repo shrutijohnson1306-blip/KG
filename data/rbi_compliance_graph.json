@@ -1,0 +1,1179 @@
+{
+    "directed": true,
+    "multigraph": true,
+    "graph": {},
+    "nodes": [
+        {
+            "size": 10,
+            "id": "Regulated Entities (REs)"
+        },
+        {
+            "size": 10,
+            "id": "Lending Service Providers (LSPs)"
+        },
+        {
+            "size": 10,
+            "id": "Digital Lending Apps (DLAs)"
+        },
+        {
+            "size": 10,
+            "id": "Borrowers"
+        },
+        {
+            "size": 10,
+            "id": "LSPs"
+        },
+        {
+            "size": 10,
+            "id": "DLAs"
+        },
+        {
+            "size": 10,
+            "id": "Existing customers"
+        },
+        {
+            "size": 10,
+            "id": "New customers"
+        },
+        {
+            "size": 10,
+            "id": "Existing digital loans"
+        },
+        {
+            "size": 10,
+            "id": "Data Privacy Authorities"
+        },
+        {
+            "size": 10,
+            "id": "REs"
+        },
+        {
+            "size": 10,
+            "id": "KFS"
+        },
+        {
+            "size": 10,
+            "id": "Website"
+        },
+        {
+            "size": 10,
+            "id": "DLAs, LSPs"
+        },
+        {
+            "size": 10,
+            "id": "DLAs of REs and LSPs"
+        },
+        {
+            "size": 10,
+            "id": "Nodal grievance redressal officer"
+        },
+        {
+            "size": 10,
+            "id": "LSPs engaged by REs"
+        },
+        {
+            "size": 10,
+            "id": "Complaint Management System (CMS) portal"
+        },
+        {
+            "size": 10,
+            "id": "Regulated Entity (RE)"
+        },
+        {
+            "size": 10,
+            "id": "Borrower"
+        },
+        {
+            "size": 10,
+            "id": "Board of RE"
+        },
+        {
+            "size": 10,
+            "id": "Lending Service Provider (LSP)"
+        },
+        {
+            "size": 10,
+            "id": "LSP"
+        },
+        {
+            "size": 10,
+            "id": "Digital Lending App (DLA)"
+        },
+        {
+            "size": 10,
+            "id": "LSPs/DLAs"
+        },
+        {
+            "size": 10,
+            "id": "Servers"
+        },
+        {
+            "size": 10,
+            "id": "public"
+        },
+        {
+            "size": 10,
+            "id": "Synthetic Securitisation"
+        },
+        {
+            "size": 10,
+            "id": "Regulated Entity"
+        },
+        {
+            "size": 10,
+            "id": "APR"
+        },
+        {
+            "size": 10,
+            "id": "Cost of Funds"
+        },
+        {
+            "size": 10,
+            "id": "Credit Cost"
+        },
+        {
+            "size": 10,
+            "id": "Operating Cost"
+        },
+        {
+            "size": 10,
+            "id": "Processing Fee"
+        },
+        {
+            "size": 10,
+            "id": "Verification Charges"
+        },
+        {
+            "size": 10,
+            "id": "Maintenance Charges"
+        },
+        {
+            "size": 10,
+            "id": "Penal Charges"
+        },
+        {
+            "size": 10,
+            "id": "Late Payment Charges"
+        },
+        {
+            "size": 10,
+            "id": "Key Fact Statement (KFS)"
+        },
+        {
+            "size": 10,
+            "id": "Cooling-off Period"
+        },
+        {
+            "size": 10,
+            "id": "Contact List"
+        },
+        {
+            "size": 10,
+            "id": "Media and Files"
+        },
+        {
+            "size": 10,
+            "id": "Call Logs"
+        },
+        {
+            "size": 10,
+            "id": "Biometric Data"
+        },
+        {
+            "size": 10,
+            "id": "One-time Access (Camera/Microphone)"
+        },
+        {
+            "size": 10,
+            "id": "Borrower Bank Account"
+        },
+        {
+            "size": 10,
+            "id": "Disbursement Funds"
+        },
+        {
+            "size": 10,
+            "id": "Tenor 7 days or more"
+        },
+        {
+            "size": 10,
+            "id": "Tenor less than 7 days"
+        },
+        {
+            "size": 10,
+            "id": "10-day Loan"
+        },
+        {
+            "size": 10,
+            "id": "6-day Loan"
+        },
+        {
+            "size": 10,
+            "id": "Undisclosed Charges"
+        },
+        {
+            "size": 10,
+            "id": "Missing KFS/APR"
+        },
+        {
+            "size": 10,
+            "id": "Complaints"
+        },
+        {
+            "size": 10,
+            "id": "Standardized RBI Format"
+        },
+        {
+            "size": 10,
+            "id": "All-Inclusive Fees"
+        },
+        {
+            "size": 10,
+            "id": "Any Fee Not in KFS"
+        },
+        {
+            "size": 10,
+            "id": "Convenience Fee"
+        }
+    ],
+    "edges": [
+        {
+            "title": "Ensure compliance",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Lending Service Providers (LSPs)",
+            "key": 0
+        },
+        {
+            "title": "Comply with guidelines in both letter and spirit",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Lending Service Providers (LSPs)",
+            "key": 1
+        },
+        {
+            "title": "engage",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Lending Service Providers (LSPs)",
+            "key": 2
+        },
+        {
+            "title": "Not allowed to charge fees directly from borrowers",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Lending Service Providers (LSPs)",
+            "key": 3
+        },
+        {
+            "title": "Ensure compliance",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Digital Lending Apps (DLAs)",
+            "key": 0
+        },
+        {
+            "title": "Comply with guidelines in both letter and spirit",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Digital Lending Apps (DLAs)",
+            "key": 1
+        },
+        {
+            "title": "operate",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Digital Lending Apps (DLAs)",
+            "key": 2
+        },
+        {
+            "title": "Comply with guidelines",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Borrowers",
+            "key": 0
+        },
+        {
+            "title": "Conform to extant guidelines on outsourcing",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Borrowers",
+            "key": 1
+        },
+        {
+            "title": "disburse loans to",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Borrowers",
+            "key": 2
+        },
+        {
+            "title": "disclose APR to",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Borrowers",
+            "key": 3
+        },
+        {
+            "title": "provide cooling off/look-up period to",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Borrowers",
+            "key": 4
+        },
+        {
+            "title": "Ensure direct disbursement to borrower's bank account",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Borrowers",
+            "key": 5
+        },
+        {
+            "title": "Disclose annualized penal charges in Key Fact Statement (KFS)",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Borrowers",
+            "key": 6
+        },
+        {
+            "title": "Disclose all-inclusive cost of digital loans in Key Fact Statement (KFS)",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Borrowers",
+            "key": 7
+        },
+        {
+            "title": "Applicable to 'existing customers availing fresh loans'",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Existing customers",
+            "key": 0
+        },
+        {
+            "title": "Applicable to 'new customers getting onboarded'",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "New customers",
+            "key": 0
+        },
+        {
+            "title": "Given time till November 30, 2022",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Regulated Entities (REs)",
+            "key": 0
+        },
+        {
+            "title": "Ensure compliance with guidelines",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Existing digital loans",
+            "key": 0
+        },
+        {
+            "title": "comply with data privacy regulations",
+            "width": 1,
+            "source": "Regulated Entities (REs)",
+            "target": "Data Privacy Authorities",
+            "key": 0
+        },
+        {
+            "title": "operate",
+            "width": 1,
+            "source": "Lending Service Providers (LSPs)",
+            "target": "Digital Lending Apps (DLAs)",
+            "key": 0
+        },
+        {
+            "title": "extend loans to",
+            "width": 1,
+            "source": "Borrowers",
+            "target": "Regulated Entities (REs)",
+            "key": 0
+        },
+        {
+            "title": "can lodge complaint if not resolved within 30 days",
+            "width": 1,
+            "source": "Borrowers",
+            "target": "Complaint Management System (CMS) portal",
+            "key": 0
+        },
+        {
+            "title": "Provide consent for data usage",
+            "width": 1,
+            "source": "Borrowers",
+            "target": "DLAs",
+            "key": 0
+        },
+        {
+            "title": "Option to deny consent for data usage",
+            "width": 1,
+            "source": "Borrowers",
+            "target": "DLAs",
+            "key": 1
+        },
+        {
+            "title": "Restrict disclosure to third parties",
+            "width": 1,
+            "source": "Borrowers",
+            "target": "DLAs",
+            "key": 2
+        },
+        {
+            "title": "Revoke consent for data collection",
+            "width": 1,
+            "source": "Borrowers",
+            "target": "DLAs",
+            "key": 3
+        },
+        {
+            "title": "Make app delete/forget data",
+            "width": 1,
+            "source": "Borrowers",
+            "target": "DLAs",
+            "key": 4
+        },
+        {
+            "title": "Disclose consent purpose at each stage of interface",
+            "width": 1,
+            "source": "Borrowers",
+            "target": "DLAs",
+            "key": 5
+        },
+        {
+            "title": "Comply with guidelines",
+            "width": 1,
+            "source": "LSPs",
+            "target": "DLAs",
+            "key": 0
+        },
+        {
+            "title": "Comply with guidelines",
+            "width": 1,
+            "source": "LSPs",
+            "target": "Borrowers",
+            "key": 0
+        },
+        {
+            "title": "Comply with guidelines",
+            "width": 1,
+            "source": "DLAs",
+            "target": "Borrowers",
+            "key": 0
+        },
+        {
+            "title": "make_privacy_policy_available",
+            "width": 1,
+            "source": "DLAs",
+            "target": "public",
+            "key": 0
+        },
+        {
+            "title": "provide KFS",
+            "width": 1,
+            "source": "REs",
+            "target": "Borrowers",
+            "key": 0
+        },
+        {
+            "title": "ensure digitally signed documents flow to borrowers",
+            "width": 1,
+            "source": "REs",
+            "target": "Borrowers",
+            "key": 1
+        },
+        {
+            "title": "communicate details of recovery agent at loan sanctioning and change in recovery responsibilities",
+            "width": 1,
+            "source": "REs",
+            "target": "Borrowers",
+            "key": 2
+        },
+        {
+            "title": "ensure resolution of complaints within 30 days",
+            "width": 1,
+            "source": "REs",
+            "target": "Borrowers",
+            "key": 3
+        },
+        {
+            "title": "capture economic profile of borrowers before extending loans",
+            "width": 1,
+            "source": "REs",
+            "target": "Borrowers",
+            "key": 4
+        },
+        {
+            "title": "assess creditworthiness in an auditable way",
+            "width": 1,
+            "source": "REs",
+            "target": "Borrowers",
+            "key": 5
+        },
+        {
+            "title": "contain APR, recovery mechanism, grievance redressal officer details, cooling-off period",
+            "width": 1,
+            "source": "REs",
+            "target": "KFS",
+            "key": 0
+        },
+        {
+            "title": "publish list of DLAs, LSPs",
+            "width": 1,
+            "source": "REs",
+            "target": "Website",
+            "key": 0
+        },
+        {
+            "title": "display product features, loan limit and cost",
+            "width": 1,
+            "source": "REs",
+            "target": "DLAs, LSPs",
+            "key": 0
+        },
+        {
+            "title": "ensure links to REs\u2019 website",
+            "width": 1,
+            "source": "REs",
+            "target": "DLAs of REs and LSPs",
+            "key": 0
+        },
+        {
+            "title": "appoint",
+            "width": 1,
+            "source": "REs",
+            "target": "Nodal grievance redressal officer",
+            "key": 0
+        },
+        {
+            "title": "ensure nodal grievance redressal officer",
+            "width": 1,
+            "source": "REs",
+            "target": "LSPs engaged by REs",
+            "key": 0
+        },
+        {
+            "title": "ensure contact details prominently displayed on websites",
+            "width": 1,
+            "source": "REs",
+            "target": "DLAs",
+            "key": 0
+        },
+        {
+            "title": "ensure facility of lodging complaint available on DLAs and websites",
+            "width": 1,
+            "source": "REs",
+            "target": "DLAs",
+            "key": 1
+        },
+        {
+            "title": "Ensure clear policy guidelines on data storage",
+            "width": 1,
+            "source": "REs",
+            "target": "DLAs",
+            "key": 2
+        },
+        {
+            "title": "Disclose policy guidelines prominently on website and apps",
+            "width": 1,
+            "source": "REs",
+            "target": "DLAs",
+            "key": 3
+        },
+        {
+            "title": "Ensure no storage of biometric data without statutory guidelines",
+            "width": 1,
+            "source": "REs",
+            "target": "DLAs",
+            "key": 4
+        },
+        {
+            "title": "ensure_compliance_with_privacy_policy",
+            "width": 1,
+            "source": "REs",
+            "target": "DLAs",
+            "key": 5
+        },
+        {
+            "title": "report_to_CICs",
+            "width": 1,
+            "source": "REs",
+            "target": "DLAs",
+            "key": 6
+        },
+        {
+            "title": "Ensure no storage of personal information",
+            "width": 1,
+            "source": "REs",
+            "target": "LSPs/DLAs",
+            "key": 0
+        },
+        {
+            "title": "Store data only in Indian servers",
+            "width": 1,
+            "source": "REs",
+            "target": "Servers",
+            "key": 0
+        },
+        {
+            "title": "ensure_compliance_with_privacy_policy",
+            "width": 1,
+            "source": "REs",
+            "target": "LSPs",
+            "key": 0
+        },
+        {
+            "title": "comply_with_technology_standards",
+            "width": 1,
+            "source": "REs",
+            "target": "LSPs",
+            "key": 1
+        },
+        {
+            "title": "report_to_CICs",
+            "width": 1,
+            "source": "REs",
+            "target": "LSPs",
+            "key": 2
+        },
+        {
+            "title": "adhere_to_outsourcing_guidelines",
+            "width": 1,
+            "source": "REs",
+            "target": "LSPs",
+            "key": 3
+        },
+        {
+            "title": "deal with complaints",
+            "width": 1,
+            "source": "Nodal grievance redressal officer",
+            "target": "Borrowers",
+            "key": 0
+        },
+        {
+            "title": "Ensure no automatic increase in credit limit without explicit consent",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Borrower",
+            "key": 0
+        },
+        {
+            "title": "Provide cooling off period",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Borrower",
+            "key": 1
+        },
+        {
+            "title": "Allow pre-payment during cooling off period as per extant RBI guidelines",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Borrower",
+            "key": 2
+        },
+        {
+            "title": "Provides Detailed Repayment Schedule",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Borrower",
+            "key": 3
+        },
+        {
+            "title": "Discloses Principal Repayment Amount",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Borrower",
+            "key": 4
+        },
+        {
+            "title": "Discloses Interest Amount",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Borrower",
+            "key": 5
+        },
+        {
+            "title": "Discloses Total Instalment Amount",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Borrower",
+            "key": 6
+        },
+        {
+            "title": "Determine cooling off period",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Board of RE",
+            "key": 0
+        },
+        {
+            "title": "Conduct enhanced due diligence before partnering",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Lending Service Provider (LSP)",
+            "key": 0
+        },
+        {
+            "title": "Consider technical abilities, data privacy policies, storage systems, fairness in conduct, and ability to comply with regulations",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "LSP",
+            "key": 0
+        },
+        {
+            "title": "Carry out periodic review of LSP's conduct",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "LSP",
+            "key": 1
+        },
+        {
+            "title": "Impart necessary guidance to LSPs acting as recovery agents",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "LSP",
+            "key": 2
+        },
+        {
+            "title": "Ensure LSPs comply with extant instructions",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "LSP",
+            "key": 3
+        },
+        {
+            "title": "Ensure data collection is need-based and with prior and explicit consent of borrower",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Digital Lending App (DLA)",
+            "key": 0
+        },
+        {
+            "title": "Ensure audit trail for data collection",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Digital Lending App (DLA)",
+            "key": 1
+        },
+        {
+            "title": "Adhere to Master Direction - Reserve Bank of India (Securitisation of Standard Assets) Directions, 2021",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Regulated Entity (RE)",
+            "key": 0
+        },
+        {
+            "title": "Transfer Credit Risk",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Synthetic Securitisation",
+            "key": 0
+        },
+        {
+            "title": "MUST_DISCLOSE_UPFRONT",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "APR",
+            "key": 0
+        },
+        {
+            "title": "MUST_DISBURSE_DIRECTLY_TO",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Borrower Bank Account",
+            "key": 0
+        },
+        {
+            "title": "SUBJECT_TO_PENAL_ACTION_BY_RBI",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Missing KFS/APR",
+            "key": 0
+        },
+        {
+            "title": "MUST_ENSURE_COMPLETENESS_OF",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Key Fact Statement (KFS)",
+            "key": 0
+        },
+        {
+            "title": "MUST_ENSURE_COMPLETENESS_OF",
+            "width": 1,
+            "source": "Regulated Entity (RE)",
+            "target": "Key Fact Statement (KFS)",
+            "key": 1
+        },
+        {
+            "title": "CAN_EXIT_BY_PAYING_PRINCIPAL_AND_APR",
+            "width": 1,
+            "source": "Borrower",
+            "target": "Cooling-off Period",
+            "key": 0
+        },
+        {
+            "title": "MUST_NOT_RECEIVE_IN_POOL_ACCOUNT",
+            "width": 1,
+            "source": "Lending Service Provider (LSP)",
+            "target": "Disbursement Funds",
+            "key": 0
+        },
+        {
+            "title": "MUST_DESIST_FROM_ACCESSING",
+            "width": 1,
+            "source": "Digital Lending App (DLA)",
+            "target": "Contact List",
+            "key": 0
+        },
+        {
+            "title": "MUST_DESIST_FROM_ACCESSING",
+            "width": 1,
+            "source": "Digital Lending App (DLA)",
+            "target": "Media and Files",
+            "key": 0
+        },
+        {
+            "title": "MUST_DESIST_FROM_ACCESSING",
+            "width": 1,
+            "source": "Digital Lending App (DLA)",
+            "target": "Call Logs",
+            "key": 0
+        },
+        {
+            "title": "NO_STORAGE_ALLOWED",
+            "width": 1,
+            "source": "Digital Lending App (DLA)",
+            "target": "Biometric Data",
+            "key": 0
+        },
+        {
+            "title": "ONLY_FOR_KYC_WITH_CONSENT",
+            "width": 1,
+            "source": "Digital Lending App (DLA)",
+            "target": "One-time Access (Camera/Microphone)",
+            "key": 0
+        },
+        {
+            "title": "Provide Key Fact Statement",
+            "width": 1,
+            "source": "Regulated Entity",
+            "target": "Borrower",
+            "key": 0
+        },
+        {
+            "title": "Provide Loan Amount",
+            "width": 1,
+            "source": "Regulated Entity",
+            "target": "Borrower",
+            "key": 1
+        },
+        {
+            "title": "Provide Total Interest Charge",
+            "width": 1,
+            "source": "Regulated Entity",
+            "target": "Borrower",
+            "key": 2
+        },
+        {
+            "title": "Provide Up-Front Charges",
+            "width": 1,
+            "source": "Regulated Entity",
+            "target": "Borrower",
+            "key": 3
+        },
+        {
+            "title": "Provide Net Disbursed Amount",
+            "width": 1,
+            "source": "Regulated Entity",
+            "target": "Borrower",
+            "key": 4
+        },
+        {
+            "title": "Provide Total Amount to be Paid",
+            "width": 1,
+            "source": "Regulated Entity",
+            "target": "Borrower",
+            "key": 5
+        },
+        {
+            "title": "Provide Annual Percentage Rate",
+            "width": 1,
+            "source": "Regulated Entity",
+            "target": "Borrower",
+            "key": 6
+        },
+        {
+            "title": "Provide Loan Tenor",
+            "width": 1,
+            "source": "Regulated Entity",
+            "target": "Borrower",
+            "key": 7
+        },
+        {
+            "title": "Provide Repayment Frequency",
+            "width": 1,
+            "source": "Regulated Entity",
+            "target": "Borrower",
+            "key": 8
+        },
+        {
+            "title": "Provide Number of Installments",
+            "width": 1,
+            "source": "Regulated Entity",
+            "target": "Borrower",
+            "key": 9
+        },
+        {
+            "title": "Provide Installment Amount",
+            "width": 1,
+            "source": "Regulated Entity",
+            "target": "Borrower",
+            "key": 10
+        },
+        {
+            "title": "Disclose Contingent Charges",
+            "width": 1,
+            "source": "Regulated Entity",
+            "target": "Borrower",
+            "key": 11
+        },
+        {
+            "title": "Disclose Cooling Off Period",
+            "width": 1,
+            "source": "Regulated Entity",
+            "target": "Borrower",
+            "key": 12
+        },
+        {
+            "title": "Disclose LSP Acting as Recovery Agent",
+            "width": 1,
+            "source": "Regulated Entity",
+            "target": "Borrower",
+            "key": 13
+        },
+        {
+            "title": "Disclose Nodal Grievance Redressal Officer",
+            "width": 1,
+            "source": "Regulated Entity",
+            "target": "Borrower",
+            "key": 14
+        },
+        {
+            "title": "MUST_INCLUDE",
+            "width": 1,
+            "source": "APR",
+            "target": "Cost of Funds",
+            "key": 0
+        },
+        {
+            "title": "MUST_INCLUDE",
+            "width": 1,
+            "source": "APR",
+            "target": "Cost of Funds",
+            "key": 1
+        },
+        {
+            "title": "MUST_INCLUDE",
+            "width": 1,
+            "source": "APR",
+            "target": "Credit Cost",
+            "key": 0
+        },
+        {
+            "title": "MUST_INCLUDE",
+            "width": 1,
+            "source": "APR",
+            "target": "Credit Cost",
+            "key": 1
+        },
+        {
+            "title": "MUST_INCLUDE",
+            "width": 1,
+            "source": "APR",
+            "target": "Operating Cost",
+            "key": 0
+        },
+        {
+            "title": "MUST_INCLUDE",
+            "width": 1,
+            "source": "APR",
+            "target": "Operating Cost",
+            "key": 1
+        },
+        {
+            "title": "MUST_INCLUDE",
+            "width": 1,
+            "source": "APR",
+            "target": "Processing Fee",
+            "key": 0
+        },
+        {
+            "title": "MUST_INCLUDE",
+            "width": 1,
+            "source": "APR",
+            "target": "Processing Fee",
+            "key": 1
+        },
+        {
+            "title": "MUST_INCLUDE",
+            "width": 1,
+            "source": "APR",
+            "target": "Verification Charges",
+            "key": 0
+        },
+        {
+            "title": "MUST_INCLUDE",
+            "width": 1,
+            "source": "APR",
+            "target": "Verification Charges",
+            "key": 1
+        },
+        {
+            "title": "MUST_INCLUDE",
+            "width": 1,
+            "source": "APR",
+            "target": "Maintenance Charges",
+            "key": 0
+        },
+        {
+            "title": "MUST_INCLUDE",
+            "width": 1,
+            "source": "APR",
+            "target": "Maintenance Charges",
+            "key": 1
+        },
+        {
+            "title": "MUST_EXCLUDE",
+            "width": 1,
+            "source": "APR",
+            "target": "Penal Charges",
+            "key": 0
+        },
+        {
+            "title": "MUST_EXCLUDE",
+            "width": 1,
+            "source": "APR",
+            "target": "Penal Charges",
+            "key": 1
+        },
+        {
+            "title": "MUST_EXCLUDE",
+            "width": 1,
+            "source": "APR",
+            "target": "Late Payment Charges",
+            "key": 0
+        },
+        {
+            "title": "MUST_EXCLUDE",
+            "width": 1,
+            "source": "APR",
+            "target": "Late Payment Charges",
+            "key": 1
+        },
+        {
+            "title": "EFFECTIVE_ANNUALIZED_RATE_FOR",
+            "width": 1,
+            "source": "APR",
+            "target": "Borrower",
+            "key": 0
+        },
+        {
+            "title": "MUST_CONTAIN",
+            "width": 1,
+            "source": "Key Fact Statement (KFS)",
+            "target": "APR",
+            "key": 0
+        },
+        {
+            "title": "CANNOT_BE_RECOVERED_FROM_BORROWER",
+            "width": 1,
+            "source": "Key Fact Statement (KFS)",
+            "target": "Undisclosed Charges",
+            "key": 0
+        },
+        {
+            "title": "MUST_ADHERE_TO",
+            "width": 1,
+            "source": "Key Fact Statement (KFS)",
+            "target": "Standardized RBI Format",
+            "key": 0
+        },
+        {
+            "title": "MUST_DISCLOSE_EVERY_SINGLE_CHARGE",
+            "width": 1,
+            "source": "Key Fact Statement (KFS)",
+            "target": "All-Inclusive Fees",
+            "key": 0
+        },
+        {
+            "title": "MUST_DISCLOSE_EVERY_SINGLE_CHARGE",
+            "width": 1,
+            "source": "Key Fact Statement (KFS)",
+            "target": "All-Inclusive Fees",
+            "key": 1
+        },
+        {
+            "title": "DURATION_MUST_BE_MINIMUM_3_DAYS",
+            "width": 1,
+            "source": "Cooling-off Period",
+            "target": "Tenor 7 days or more",
+            "key": 0
+        },
+        {
+            "title": "DURATION_MUST_BE_MINIMUM_1_DAY",
+            "width": 1,
+            "source": "Cooling-off Period",
+            "target": "Tenor less than 7 days",
+            "key": 0
+        },
+        {
+            "title": "IS_CATEGORIZED_AS",
+            "width": 1,
+            "source": "10-day Loan",
+            "target": "Tenor 7 days or more",
+            "key": 0
+        },
+        {
+            "title": "IS_CATEGORIZED_AS",
+            "width": 1,
+            "source": "6-day Loan",
+            "target": "Tenor less than 7 days",
+            "key": 0
+        },
+        {
+            "title": "ESCALATED_TO_CMS_PORTAL",
+            "width": 1,
+            "source": "Missing KFS/APR",
+            "target": "Complaints",
+            "key": 0
+        },
+        {
+            "title": "CANNOT_BE_CHARGED_TO",
+            "width": 1,
+            "source": "Any Fee Not in KFS",
+            "target": "Borrower",
+            "key": 0
+        },
+        {
+            "title": "CANNOT_BE_CHARGED_TO",
+            "width": 1,
+            "source": "Any Fee Not in KFS",
+            "target": "Borrower",
+            "key": 1
+        },
+        {
+            "title": "IS_A_TYPE_OF",
+            "width": 1,
+            "source": "Convenience Fee",
+            "target": "Any Fee Not in KFS",
+            "key": 0
+        },
+        {
+            "title": "IS_A_TYPE_OF",
+            "width": 1,
+            "source": "Convenience Fee",
+            "target": "Any Fee Not in KFS",
+            "key": 1
+        }
+    ]
+}
